@@ -26,3 +26,11 @@ Join my leaderboard: 31105-befc1076 ✨
 ### Day 6
 - Part 1 executed in 1562 ms
 - Part 2 executed in 1380 ms
+
+### Day 7
+- Part 1 executed in 5 ms
+- Part 2 executed in 8 ms
+
+### Day 8
+- Part 1 executed in 15 ms
+- Part 2 executed in 19 ms
