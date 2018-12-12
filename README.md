@@ -34,3 +34,7 @@ Join my leaderboard: 31105-befc1076 ✨
 ### Day 8
 - Part 1 executed in 15 ms
 - Part 2 executed in 19 ms
+
+### Day 9
+- Part 1 executed in 109 ms
+- Part 1 executed in 462 ms
