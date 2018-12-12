@@ -37,4 +37,10 @@ Join my leaderboard: 31105-befc1076 ✨
 
 ### Day 9
 - Part 1 executed in 109 ms
-- Part 1 executed in 462 ms
+- Part 2 executed in 462 ms
+
+### Day 10
+
+### Day 11
+- Part 1 executed in 458 ms
+- Part 2 executed in 185637 ms (with some smart bounding based on the sample outputs, this can decrease to 1564 ms)
